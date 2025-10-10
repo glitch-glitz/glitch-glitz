@@ -1,7 +1,9 @@
 👋 Hi there, I’m Devon — Full Stack Developer
 
 I build responsive interfaces, efficient APIs, and clean user experiences.
+
 🎯 Turning ideas into real products using modern web technologies.
+
 📚 Currently diving deeper into backend optimization & scalable architecture.
 
 Skilled in:
