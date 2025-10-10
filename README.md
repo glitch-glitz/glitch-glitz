@@ -1,8 +1,10 @@
-## Hi there 👋  
-## My name is Devon — Full Stack Developer
+## 👋 Devon — Full Stack Developer
 
 I build responsive interfaces, efficient APIs, and clean user experiences.  
-Skilled in:
+🎯 Turning ideas into real products using modern web technologies.  
+📚 Currently exploring backend optimization & scalable architecture.
+
+**Skilled in:**
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
@@ -16,4 +18,5 @@ Skilled in:
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </p>
 
+⚡ Fueled by coffee, code & continuous learning.  
 > Always improving, always building.
