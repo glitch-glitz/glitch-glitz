@@ -1,4 +1,5 @@
-## 👋 Devon — Full Stack Developer
+## Hi there 👋  
+## My name is Devon — Full Stack Developer
 
 I build responsive interfaces, efficient APIs, and clean user experiences.  
 Skilled in:
