@@ -1,4 +1,4 @@
-👋 Hi there, I’m glitch-glitz — Full Stack Developer
+👋 Hi there, I’m Edna Wayua — Full Stack Developer
 
 I build responsive interfaces, efficient APIs, and clean user experiences.
 
